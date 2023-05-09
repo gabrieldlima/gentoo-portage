@@ -1,0 +1,3 @@
+>=media-gfx/gimp-2.10.32-r4 gnome
+>=app-text/poppler-23.01.0 cairo
+>=media-libs/gegl-0.4.40-r1 cairo

@@ -1,0 +1,2 @@
+>=media-libs/libsndfile-1.2.0 minimal
+>=media-sound/mpg123-1.31.2 -pulseaudio
